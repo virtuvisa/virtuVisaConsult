@@ -4,15 +4,15 @@ export const navItems = [
     content: "home",
   },
   {
-    link: "/about",
+    link: "/virtuVisaConsult/about",
     content: "about",
   },
   {
-    link: "/services",
+    link: "/virtuVisaConsult/services",
     content: "services",
   },
   {
-    link: "/contact",
+    link: "/virtuVisaConsult/contact",
     content: "contact",
   },
 ];
